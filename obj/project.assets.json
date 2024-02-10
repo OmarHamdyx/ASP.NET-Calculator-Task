@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aspnetcore\\FirstWebApplication\\FirstWebApplication\\FirstWebApplication.csproj",
-      "projectName": "FirstWebApplication",
-      "projectPath": "C:\\aspnetcore\\FirstWebApplication\\FirstWebApplication\\FirstWebApplication.csproj",
+      "projectUniqueName": "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj",
+      "projectName": "WebCalculatorApi",
+      "projectPath": "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj",
       "packagesPath": "C:\\Users\\ZOLTA\\.nuget\\packages\\",
-      "outputPath": "C:\\aspnetcore\\FirstWebApplication\\FirstWebApplication\\obj\\",
+      "outputPath": "O:\\Repositories\\WebCalculatorApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZOLTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
