@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzpFzvL7/WuYkzhRcsB7zCMx/witfwJgx9wKFcVELYemVCiafvlbTzlphdJ46g4js1PTdTMHkcVStkhaBDF+AA==",
+  "dgSpecHash": "qCrxdOLlkyk1HXSIsdj/Hfo1/4vx6zVCQWm4hfzAs+N4Xck1F5wtET6LT3NXczkMWgKm8xlZ7qBo/AGs5bduhA==",
   "success": true,
-  "projectFilePath": "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj",
+  "projectFilePath": "O:\\Repositories\\ASP.NET-Web-Calculator-Api\\WebCalculatorApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

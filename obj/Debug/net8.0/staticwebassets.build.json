@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "sgPkJj91Tc7xc8qREdBPDVqQ22TA1VSopzZXhYJp7Is=",
-  "Source": "FirstWebApplication",
-  "BasePath": "_content/FirstWebApplication",
+  "Hash": "110Ak/RxIL2PkHxDioFyIr+ktJXlA3FNbRXfqBl3XKs=",
+  "Source": "WebCalculatorApi",
+  "BasePath": "_content/WebCalculatorApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj": {}
+    "O:\\Repositories\\ASP.NET-Web-Calculator-Api\\WebCalculatorApi.csproj": {}
   },
   "projects": {
-    "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj": {
+    "O:\\Repositories\\ASP.NET-Web-Calculator-Api\\WebCalculatorApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj",
+        "projectUniqueName": "O:\\Repositories\\ASP.NET-Web-Calculator-Api\\WebCalculatorApi.csproj",
         "projectName": "WebCalculatorApi",
-        "projectPath": "O:\\Repositories\\WebCalculatorApi\\WebCalculatorApi.csproj",
+        "projectPath": "O:\\Repositories\\ASP.NET-Web-Calculator-Api\\WebCalculatorApi.csproj",
         "packagesPath": "C:\\Users\\ZOLTA\\.nuget\\packages\\",
-        "outputPath": "O:\\Repositories\\WebCalculatorApi\\obj\\",
+        "outputPath": "O:\\Repositories\\ASP.NET-Web-Calculator-Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZOLTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
