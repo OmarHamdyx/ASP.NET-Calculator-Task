@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCalculatorApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd0efbc3891029190f5c45d9812f09b772355bcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+972a84050641829b16cad673e9e6eff32c0fa161")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCalculatorApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCalculatorApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
